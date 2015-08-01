@@ -1,13 +1,13 @@
 # Site settings
 title: WnCC
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: cheekujodhpur@gmail.com
+description: "The Official WnCC@IITB blog"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+url: "http://wncc-iitb.com"
+twitter_username: 
+github_username:  wncc
+facebook_username:  wncc.iitb
 
 # Build settings
 markdown: kramdown
