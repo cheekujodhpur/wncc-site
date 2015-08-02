@@ -1,0 +1,135 @@
+---
+layout:     post
+title:      "Freshies intro to tech@IITB"
+subtitle:   "A tutorial to the tech face of your life in the institute"
+date:       2015-07-27 18:17:00
+author:     "Rohan Kumar"
+header-img: "img/dsc04521.jpg"
+---
+
+<p>Hello and welcome to IIT Bombay! Congratulations on having secured admission at this prestigious institute.</p>
+<p>Technology has started to take a center place in our lives. Now you might have been wondering if we have some special apps and services which you might use to make your lives simpler here.Expect this blog to be an introduction to all such tech which will make you lives easier in the insti. Be it from getting around the insti, to using and creating Wi-Fi hotspots , to using calendars and other apps to make life easy to using and setting up DC++.This blog explains what your life may be in a particular day at insti and how you can make it simpler. Hope it helps. Happy reading!</p>
+<h2 class = "section-heading">Wake Up : 8:00 AM</h2>
+<p>This being your first week at the institute I am assuming that you wake up at 8:00 AM to go for classes. Even if you have afternoon classes or labs I assume that you are enthusiastic about having breakfast( trust me that doesn&#8217;t last) and wake up at 8ish in the morning.</p>
+<p>Now I believe you must be one of the two kinds of people listed below, if you do have problems in waking up you may either use the second approach or there are some really great apps which require you to solve numerical problems to stop the alarm or stand up and make a number eight with your phone which you may use.Being heavily reliant on the second system and never having personally used any special apps I am unable to recommend them to you.</p>
+<p>
+<a href="#"><img src="{{ site.baseurl }}/img/post-freshie-intro/image25.jpg" alt="Two+kinds+of+people+two+kinds+of+people+http+thefunnybeavercom_71743a_5323139" width="343" height="328" /></a>
+</p>
+<h2 class="section-heading">Going to the classes : 8:45 AM</h2>
+<p>Having had breakfast and taking a bath (that won’t last as well) getting to the classrooms and labs might be a bit tricky in the starting.Feel free to ask any seniors for help or just follow the crowd and they may lead you to your destination.</p>
+<p>However for getting around the insti,at least in the beginning you will find <a href="https://play.google.com/store/apps/details?id=in.designlabs.instimap&amp;hl=en">InstiMap</a> one of the greatest boons. It has only been launched on Android for now so IPhone and Windows Phone users may have to seek help from their friends.</p>
+<p>
+<a href="#"><img src="{{ site.baseurl }}/img/post-freshie-intro/image03.jpg" alt="use" width="584" height="340" /></a>
+</p>
+<h2 class="section-heading">Lectures : 9:30 AM to 12:30 AM</h2>
+<p>During the start of the semester you may find it difficult to manage your time tables. Add the constant need to find your way around the insti to the equation and you might never be on time in the first week or may find yourself disoriented and running from place to place.</p>
+<p>Google Calendar to the rescue! Apart from checking the time (-5 minutes to +15 minutes) when you have to give your biometric attendance adding your timetable to Google Calendar will give you a half an hour head start on where you have to be and what course you have in the next hour and a half. As the semester progresses you won’t feel the need to check your calendar for lectures, tutorials and labs but at the start it will certainly be beneficial to you.</p>
+<p>As an example this is what my calendar looked like last semester.The slot timings are a bit off but as you can see color coding the lectures and tutorials can be of a good help.</p>
+<p><a href="#"><img src="{{ site.baseurl }}/img/post-freshie-intro/image02.jpg" alt="11780382_398921470303832_615636802_n" width="267" height="475" /></a></p>
+<p>You may also want a printed copy of your time tables with probably some color combinations. You may use our very own timetable generator ,created by ex-WnCC manager Manish hosted <a href="http://homepages.iitb.ac.in/~manishg/Stuff/timetable/" target="_blank">here</a>.</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/screenshot-78.png"><img class="alignnone size-full wp-image-75" src="https://krohan3496.files.wordpress.com/2015/07/screenshot-78.png?w=842" alt="Screenshot (78)"   /></a></p>
+<h2><b>How to operate Wi-Fi in Academic Area:</b></h2>
+<p>In whole of academic are you will find three Wi-Fi hotspots:</p>
+<ol>
+<li>IITB &#8211; Wireless</li>
+<li>Eduroam</li>
+<li>IITB &#8211; Guest</li>
+</ol>
+<p>I was unable to get a Windows phone but the following pictures would make it pretty clear on how to connect to Wi-Fi in Android and iOS.</p>
+<p><b>i) Connecting to IITB-Wireless/eduroam</b></p>
+<p style="text-align:left;">You can log into these networks by using your LDAP ID and password. After logging into these networks you will be able to access all the *.iitb.ac.in websites like asc, gpo,internet,camp and gpo. You can use the internet without logging into internet.itb.ac.in on your mobile phones.If not open up a browsr go to internet.iitb.ac.in and once again login with your LDAP credentials.</p>
+<p class = "set_of_images" style="text-align:left;"><a style = "float:left" href="https://krohan3496.files.wordpress.com/2015/07/11749844_398976563631656_1503612791_n.jpg"><img class="alignnone  wp-image-46" src="https://krohan3496.files.wordpress.com/2015/07/11749844_398976563631656_1503612791_n.jpg?w=200&#038;h=356" alt="11749844_398976563631656_1503612791_n" width="200" height="356" /></a>  <a style = "float:left" href="https://krohan3496.files.wordpress.com/2015/07/11778067_398976560298323_1264215694_n.jpg"><img class="alignnone  wp-image-47" src="https://krohan3496.files.wordpress.com/2015/07/11778067_398976560298323_1264215694_n.jpg?w=200&#038;h=356" alt="11778067_398976560298323_1264215694_n" width="200" height="356" /></a>  <a style = "float:left" href="https://krohan3496.files.wordpress.com/2015/07/11802122_398976556964990_249899159_n-1.jpg"><img class="alignnone  wp-image-48" src="https://krohan3496.files.wordpress.com/2015/07/11802122_398976556964990_249899159_n-1.jpg?w=200&#038;h=356" alt="11802122_398976556964990_249899159_n (1)" width="200" height="356" /></a></p>
+<div style = "clear:both"></div>
+<p class = "set_of_images" style="text-align:left;">                                 <a href="https://krohan3496.files.wordpress.com/2015/07/11791718_1038060076206489_1820620633_n.jpg"><img class="alignnone  wp-image-49" src="https://krohan3496.files.wordpress.com/2015/07/11791718_1038060076206489_1820620633_n.jpg?w=200&#038;h=355" alt="11791718_1038060076206489_1820620633_n" width="200" height="355" /></a>  <a href="https://krohan3496.files.wordpress.com/2015/07/11802159_1038060162873147_471284597_n.jpg"><img class="alignnone  wp-image-50" src="https://krohan3496.files.wordpress.com/2015/07/11802159_1038060162873147_471284597_n.jpg?w=200&#038;h=356" alt="11802159_1038060162873147_471284597_n" width="200" height="356" /></a></p>
+<div style = "clear:both"></div>
+<p><b>ii) Connecting to IITB-Guest</b></p>
+<p><b></b>As the name suggests this network is meant for guests at IITB. Connecting to this network will not give you access to the intranet website.Connect to the open hotspot then you will find a notification asking you to “Sign in to the network”.Open the link, sign in with your LDAP credentials and you are good to go.</p>
+<p class = "set_of_images"><a href="https://krohan3496.files.wordpress.com/2015/07/11780376_398976530298326_798683348_n.jpg"><img class="alignnone  wp-image-55" src="https://krohan3496.files.wordpress.com/2015/07/11802176_398976540298325_632713266_n.jpg?w=200&#038;h=356" alt="11802176_398976540298325_632713266_n" width="200" height="356" /></a>    <a href="https://krohan3496.files.wordpress.com/2015/07/11798114_398976533631659_955295667_n.jpg"><img class="alignnone  wp-image-54" src="https://krohan3496.files.wordpress.com/2015/07/11798114_398976533631659_955295667_n.jpg?w=200&#038;h=356" alt="11798114_398976533631659_955295667_n" width="200" height="356" /></a>  <a> <img class="alignnone  wp-image-51" src="https://krohan3496.files.wordpress.com/2015/07/11780376_398976530298326_798683348_n.jpg?w=200&#038;h=356" alt="11780376_398976530298326_798683348_n" width="200" height="356" /></a>   <a href="https://krohan3496.files.wordpress.com/2015/07/11802176_398976540298325_632713266_n.jpg">                                       </a><a>  <img class="alignnone  wp-image-53" src="https://krohan3496.files.wordpress.com/2015/07/11791718_1038060076206489_1820620633_n-1.jpg?w=200&#038;h=356" alt="11791718_1038060076206489_1820620633_n (1)" width="200" height="356" />  </a> <a><img class="alignnone  wp-image-52" src="https://krohan3496.files.wordpress.com/2015/07/11780525_1038060202873143_223863897_n.jpg?w=200&#038;h=356" alt="11780525_1038060202873143_223863897_n" width="200" height="356" /></a></p>
+<div style = "clear:both"></div>
+<h2><b>During the lectures:</b></h2>
+<p>Now I fully advocate paying full attention to the professor during the lectures hence obviously the following information is for during the gap between lectures only. <span class='wp-smiley wp-emoji wp-emoji-wink' title=';)'>;)</span></p>
+<h2><b> Apps for time pass/lukkha time:</b></h2>
+<p>There are a couple of apps which are great for lukkha time and provide the perfect way for time pass, may it be waiting for your turn in a queue, waiting for food at cantens or an attention lapse while seeing endless presentations( once again I am obviously talking about the orientations and not the lectures).</p>
+<p><b>i) Jumpy Tiles</b></p>
+<p>Believe me when I say this that this game is so addictive that once you start playing it you won’t be able to resist the lure of opening the game again and try for that “one last time”. I personally played only this game on my mobile phone from January to June. Give it a try, it may frustrate you in the beginning but I am pretty sure you will find it an enjoyable play.The app features in app advertisements so I suggest turning your WiFi off during play for better performance/playing experience.</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/unnamed.jpg"><img class="  wp-image-56 aligncenter" src="https://krohan3496.files.wordpress.com/2015/07/unnamed.jpg?w=267&#038;h=475" alt="unnamed" width="267" height="475" /></a></p>
+<p><b>Other honorable mentions: </b>Hill Climb Racing,Flow Free,Piano Tiles</p>
+<p><b>ii) Quizup</b></p>
+<p>This is one heck of a challenging quiz game to which you will keep on returning not only to beat your friends but to beat strangers all across the globe in topics as diverse as Game of Thrones to Mathematics to Logos. Internet connection is required to use the app and a beta version for Windows desktop is also available.</p>
+<p>Check out its Website : <a href="https://www.quizup.com/en">https://www.quizup.com/en</a></p>
+<h2>1:30 PM : Back at hostels <span class='wp-smiley wp-emoji wp-emoji-smile' title=':)'>:)</span></h2>
+<p>So after a day of heavy classes and labs now you are lukkha at your hostel rooms.￼This would be a great time to get to know your wingies, explore the campus (if it ever stops raining) or may need to browse the internet or watch a movie or TV series.</p>
+<p>Starting off with your internet needs, get a LAN Cable from your hostel shops, connect it to your laptops and you are good to go. For those whose laptops are too thin for a LAN port may use a LAN to USB adapters,easily available at Flipkart and Amazon or may just use their roomie’s Wi-Fi hotspot.We would get to the hotspot part fairly quickly.</p>
+<p>To start off you need to go to internet.iitb.ac.in and log in with your LDAP ID to start browsing the external websites.Your browser may redirect you but in any case it would be good to keep it bookmarked.</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/image05.png"><img class="alignnone size-full wp-image-57" src="https://krohan3496.files.wordpress.com/2015/07/image05.png?w=842" alt="image05"   /></a></p>
+<p>You can change your LDAP ID at camp.iitb.ac.in, though once changed it can’t be reverted back and it can’t be changed in the first two months. Remember this would be the email ID you will use to send out all official emails so please don’t keep unprofessional IDs like &lt;sample_name&gt;<a href="mailto:rox@iitb.ac.in">rox@iitb.ac.in</a>.On camp.iitb.ac.in you can also setup auto-forwarding of emails that come to your gpo to your gmail,hotmail or yahoo accounts. This would be a good practice as lots of important emails come on gpo and you might not check gpo that often but your other email accounts you must have had synced with your smartphones.</p>
+<p>Go to camp.iitb.ac in -&gt; Log into LDAP -&gt; Login with your LDAP credentials -&gt; Setup AutoForward or AutoReply -&gt; Enter your forwarding address.</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/image00.png"><img class="alignnone size-full wp-image-58" src="https://krohan3496.files.wordpress.com/2015/07/image00.png?w=842" alt="image00"   /></a></p>
+<p>On the internet you will find lots of great stuff that would be helpful to you not only academically but also to pursue any passion or hobby you have. It is advisable to follow these sites rather than aimlessly browsing the high speed internet all day.</p>
+<p>Some of my personal favorites are &#8211; Quora , 9gag(this one’s a lukkha website), Udacity (for all starts of video tutorials), code academy. Other than that you may use Hulu or ororo.tv to watch TV shows online.Because of DC you may not find a need for it however sometimes some show is not available or is available in a low quality you may use that.</p>
+<p>Hulu is not currently available in India so you won’t be able to access it directly however install Zenmate extension on chrome, which basically is a VPN with options for different countries to reroute your traffic through. The net may slow down a bit but you may find it useful.You can also use Zenmate on websites like ororo.tv which limits the number of video you can watch per day. Run Zenmate and you it won’t block you anymore!</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/image16.png"><img class="alignnone size-full wp-image-59" src="https://krohan3496.files.wordpress.com/2015/07/image16.png?w=842" alt="image16"   /></a></p>
+<p>Other internet services which you will definitely find useful : Google Inbox ( a new way to interact with you email) , Google Keep ( definitely beats Evernote in keeping your notes synced across your smartphones and laptops), Google Photos (upload unlimited photos and videos in high quality) ,  Adblock ( blocks online advertisements on all websites and even blocks ads shown in YouTube videos) , Magic Action for Youtube (Play videos in 1080p by default and disable annoying annotations as well) etc.</p>
+<p>Some of the other must have softwares on your laptops &#8211; VLC (for movies/TV/Online streaming/Songs),Google Chrome/Mozilla Firefox ( please stop using Microsoft Internet Explorer,if you haven’t already.Though Microsoft Edge comes out soon that’s cool <span class='wp-smiley wp-emoji wp-emoji-smile' title=':)'>:)</span> ),Sublime Text ( Probably the best text editor out there,for the coding enthu junta in insti!), Microsoft Visual Studio Code (again one of the coolest text editor, currently under development), Google Keep, Adobe Reader DC and of course DC++. You can skip Microsoft Office as you can get all of your stuff done on Google Docs/Sheets/Slides or on OneDrive.</p>
+<p>Windows 10 comes out day after tomorrow and is a free upgrade for PCs running genuine Windows 7/8/8.1. Having a partnership with Microsoft you can go and get free professional versions of all Microsoft products at msstore.iitb.ac.in. So go update your laptops if you have not done that already!</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/image06.png"><img class="alignnone size-full wp-image-60" src="https://krohan3496.files.wordpress.com/2015/07/image06.png?w=842" alt="image06"   /></a></p>
+<p>For all other professional software like MATLAB or AutoCAD you can check out Computer Center’s website where you can get them for free.</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/image27.png"><img class="alignnone size-full wp-image-61" src="https://krohan3496.files.wordpress.com/2015/07/image27.png?w=842" alt="image27"   /></a>Sometimes you may find that the usually fast internet lags and pages more time to load than they do in  BSNL Broadband. That’s because there is too much load on our internet.iitb.ac.in servers and it would be advisable to use a proxy and connect via the netmon.itb.ac.in servers.The steps to use a proxy in Windows are listed below:</p>
+<p>i) Press Win+Q and search for Network Proxy Settings</p>
+<p>ii) Select Manual and do the following settings:</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/image09.png"><img class="alignnone size-full wp-image-62" src="https://krohan3496.files.wordpress.com/2015/07/image09.png?w=842" alt="image09"   /></a></p>
+<p>The exceptions in the proxy settings are so that you may browse intranet websites while using a proxy, otherwise it would be a pain to continuously switch back and forth between proxies when you need to use both external and internal sites simultaneously.</p>
+<p>iii) You can also activate proxy by going to Setting in Chrome -&gt; Show Advanced Settings -&gt; Change proxy settings-&gt;LAN settings and doing the following:</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/image13.png"><img class="alignnone size-full wp-image-63" src="https://krohan3496.files.wordpress.com/2015/07/image13.png?w=842" alt="image13"   /></a><br />
+Unix based system users may go to System Settings -&gt; Network -&gt; Network Proxy -&gt; Manual and do the following settings:</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/image11.png"><img class="alignnone size-full wp-image-64" src="https://krohan3496.files.wordpress.com/2015/07/image11.png?w=842" alt="image11"   /></a></p>
+<p>Once your proxy is setup , whe you open up a new web browser it would show up a pop up asking you to enter your credentials. lOgin with your LDAP ID and password and you are good to go.</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/image19.png"><img class="alignnone size-full wp-image-65" src="https://krohan3496.files.wordpress.com/2015/07/image19.png?w=842" alt="image19"   /></a></p>
+<p><b>PS: </b>You must disable Zenmate inside your browser so as to use network proxy, otherwise you may have a system wide proxy but inside Chrome the proxy will not work.</p>
+<hr />
+<h2>How to setup a Wi-Fi hotspot:</h2>
+<p>If you want to setup a WiFi hotspot in Windows you may follow the instructions at one of my other blog post which can be found <a href="https://krohan3496.wordpress.com/2015/04/12/tutorial-how-to-setup-a-wifi-hotspot-in-windows/">here</a>.</p>
+<p>Mac users can easily setup a hotspot by turning on Internet Sharing in System Preferences -&gt; Sharing.</p>
+<hr />
+<h2>DC101: How to operate DC++</h2>
+<p>You may have heard from seniors or friends that you can get infinite amount of stuff on college LAN. It’s true.</p>
+<p>You may have heard that you get unimaginable speed sometimes peeking to 20-30 MBps. Also true.</p>
+<p>All this is due to file sharing client that we use in our insti called DC++.You can download the software <a href="http://dcplusplus.sourceforge.net/" target="_blank">here</a>.I personally prefer DC++ over Eiskalt DC++ as it gives real time search results rather than searching the whole directory and then showing results.</p>
+<p>To start using DC++ download the software. As soon as you open it up it will ask you for some information, enter your nick, kind of username which is displayed in the active list , set up file sharing and you are good to go.</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/image07.png"><img class="alignnone size-full wp-image-66" src="https://krohan3496.files.wordpress.com/2015/07/image07.png?w=842" alt="image07"   /></a></p>
+<p>The minimum share limit for DC++ hubs right now is 10GB for Zenmate and 20GB for EvilKagawa.Also you need to have more than 5 upload slots. If you have some stuff with you already then its well and good otherwise go to Computer Center FTP Servers I mentioned before, download some stuff like setups and then upload them.</p>
+<p>After downloading the stuff you can upload the by going to settings-&gt;Sharing and then adding the folder and updating the slots (3 by default).</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/image20.png"><img class="alignnone size-full wp-image-67" src="https://krohan3496.files.wordpress.com/2015/07/image20.png?w=842" alt="image20"   /></a></p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/image26.png"><img class="  wp-image-68 aligncenter" src="https://krohan3496.files.wordpress.com/2015/07/image26.png?w=462&#038;h=397" alt="image26" width="462" height="397" /></a><b>PS: </b>The stuff you upload is available for all users to view and download so don’t upload any private or sensitive information.Uploading OS Setups, games, movies and TV Shows would be good.</p>
+<p>Go to dc.iitb.me. Copy the Hub Address of active hubs , go to DC++ use Ctrl+Q and paste the address.If everything is good you will be able to connect to the Hub.If it shows error of ‘Nick already taken’ just change you nick from settings and connect again.</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/image21.png"><img class="alignnone size-full wp-image-69" src="https://krohan3496.files.wordpress.com/2015/07/image21.png?w=842" alt="image21"   /></a></p>
+<p>To search for something go to Search, type in the name of whatever you want to and it should display results simultaneously.</p>
+<p><a href="https://krohan3496.files.wordpress.com/2015/07/image23.png"><img class="alignnone size-full wp-image-70" src="https://krohan3496.files.wordpress.com/2015/07/image23.png?w=842" alt="image23"   /></a></p>
+<p>To download a particular file to your Downloads directory just double click the file, to download to a particular directory right click and select Download to-&gt;Browse.</p>
+<p>If the search results show a folder double clicking the folder downloads the whole folder.</p>
+<p>To Browse the file list of the user who uploaded the file right click and select Browse File List-&gt; Nick of the user.</p>
+<p>To download the whole Directory of the user for the file you just searched right click and select Download Whole Directory/ Download Whole Directory to -&gt; Browse.</p>
+<p>To view your current download list press Ctrl+D to view the Download Queue.</p>
+<h2><b>What do the various columns in search results mean?</b></h2>
+<p><b>Hits :</b> Number of users who have that particular file.</p>
+<p><b>Slots (x/y) :</b> Y represents the total number of slots that are available from all the hits. Now someone might already be using some of their open slots to download something so x represents the number of remaining opening slots.</p>
+<p>Sometimes when x=0 , that is there are no open slots you may have to wait up in queue to download the file.</p>
+<p>Rest all are fairly intuitive and I don’t believe need any introduction.</p>
+<p>That’s all you need to know for operating DC++. Fairly simple, right? But it made me go nuts the first time I tried to use it,so I hope it helps you guys.</p>
+<hr />
+<h2>Getting around the city</h2>
+<p>Demystifying the system of local trains around the city can be difficult. One year later I still know only some basic routes and am heavily dependent on my ghati friends to navigate the city. In this an app named m-Indicator can be highly helpful to know the local trains timings and routes.</p>
+<p class = "set_of_images"><a href="https://krohan3496.files.wordpress.com/2015/07/unnamed-2.png"><img class="alignnone  wp-image-78" src="https://krohan3496.files.wordpress.com/2015/07/unnamed-2.png?w=200&#038;h=356" alt="unnamed (2)" width="200" height="356" /></a>  <a href="https://krohan3496.files.wordpress.com/2015/07/unnamed.png"><img class="alignnone  wp-image-79" src="https://krohan3496.files.wordpress.com/2015/07/unnamed.png?w=200&#038;h=356" alt="unnamed" width="200" height="356" /></a>  <img class="alignnone  wp-image-77" src="https://krohan3496.files.wordpress.com/2015/07/unnamed-1.png?w=200&#038;h=356" alt="unnamed (1)" width="200" height="356" /></p>
+<div style = "clear:both"></div>
+<p>If travelling in the local seems proves to be too much of a hassle(trust me it does), Uber comes to our rescue. Giving two way promotional referrals worth Rs 250  is an added benefit as one can keep on referring friends and keep getting free rides. I would be highly obliged if you use this <a href="https://www.uber.com/invite/uberkrohan3496" target="_blank">link</a> to sign up as my free rides are about to run out <span class='wp-smiley wp-emoji wp-emoji-wink' title=';)'>;)</span></p>
+<p>There is an added SWAG of arriving by taxi wherever you go.</p>
+<p class = "set_of_images"><a><img class="alignnone  wp-image-85" src="https://krohan3496.files.wordpress.com/2015/07/11774596_399370786925567_1360670541_n.jpg?w=201&#038;h=358" alt="11774596_399370786925567_1360670541_n" width="201" height="358" /> </a> <a href="https://krohan3496.files.wordpress.com/2015/07/11797978_399370750258904_1923218610_n.jpg"><img class="alignnone  wp-image-84" src="https://krohan3496.files.wordpress.com/2015/07/11797978_399370750258904_1923218610_n.jpg?w=200&#038;h=356" alt="11797978_399370750258904_1923218610_n" width="200" height="356" /></a><a>  <img class="alignnone  wp-image-83" src="https://krohan3496.files.wordpress.com/2015/07/11823979_399370730258906_2081367747_n.jpg?w=200&#038;h=356" alt="11823979_399370730258906_2081367747_n" width="200" height="356" /></a></p>
+<div style = "clear:both"></div>
+<hr />
+<h2>What does Web and Coding Club have in store for you in your first year?</h2>
+<p>In short &#8211; lots and lots of awesome stuff. Ideate , design and create whatever you want to. If stuck there are seniors happy to help.We have sessions on web development, python , competitive coding and GSoC fundae. We have competitive coding competitions and Hackathons in store for you. We have a very god game development competition to start off the semester.</p>
+<p>Needless to say all of this has no pre-requisites and you need not even know any basic programming to attend all of our sessions. All that matters is enthusiasm and a hunger for knowledge. Anyways I am pretty sure that once you see the “Hello World” printed on your terminals, you won’t be able to stop.</p>
+<p>To learn more do come to our Students Technical Activities Body (STAB) orientation on 29th and start your wonderful journey in tech @ IITB.</p>
+<p>Hope the article helped. Have a wonderful stay @ IITB and happy coding!!</p>
+<p>Welcome to the family.</p>
+<p>Peace Yo!</p>
